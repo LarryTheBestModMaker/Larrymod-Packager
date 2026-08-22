@@ -47,6 +47,14 @@ See the License for the specific language governing permissions and
 limitations under the License.`,
   ACCENT_COLOR: '#80f41a',
   SOURCE_CODE: 'https://github.com/LarryTheBestModMaker/LarryMod-Packager',
+  FEEDBACK_PRIMARY: {
+    name: 'Discord',
+    link: 'https://discord.gg/NZ9MBMYTZh'
+  },
+  FEEDBACK_SECONDARY: {
+    name: 'GitHub',
+    link: 'https://github.com/DinosaurMod/DinosaurMod-Packager/issues'
+  },
   DONATE: 'https://penguinmod.com/donate',
   PRIVACY_POLICY: 'https://turbowarp.org/privacy.html',
 };
